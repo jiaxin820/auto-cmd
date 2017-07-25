@@ -1,0 +1,6 @@
+history
+cmds
+device
+output
+*.pyc
+argv.conf
