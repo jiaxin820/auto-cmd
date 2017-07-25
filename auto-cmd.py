@@ -37,14 +37,11 @@ class SSHAgent():
         output_str = ""
         for cmd in cmds:
             self.ssh.send(cmd)
-            try_times = 0
+            try_times = 1
             while True:
                 try:
                     i = self.ssh.expect( delimiters,timeout=20 )
                     #print("key:"+keys[i])
-                    if try_times > 3:
-                        print("try over 3 times!break!")
-                        break
                     cmd_output = self.ssh.before + self.ssh.after
                     print(cmd_output)
                     output_str += cmd_output
@@ -53,6 +50,9 @@ class SSHAgent():
                     else:
                         break
                 except pexpect.TIMEOUT:
+                    if try_times > 3:
+                        print("try over 3 times!break!")
+                        return None
                     try_times += 1
                     print("try %d times..." % (try_times))
                 except Exception as e:
@@ -75,8 +75,8 @@ class SSHAgent():
                 print("Can't telnet %s " % (device))
                 continue
             output = self.send_cmd( list_cmds, delis_cmd, actions_cmd )
-            if output:
-                pass
+            if not output:
+                print("Error send cmd to %s " % (device))
                 #self.write_log( OUTPUT_PATH[-2]+list_devices[index].strip()+".txt", output)
 
     def __write_log( self, path, data ):
