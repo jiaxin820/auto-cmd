@@ -23,8 +23,10 @@ class SSHAgent():
         try:
             self.ssh = pxssh.pxssh()
             if self.ssh.login(self.hostname,self.username,port=self.port) is True:
+                self.ssh.setwinsize(20,120)
                 #ssh.prompt(5)
                 #print(ssh.before)
+                #print(self.ssh.getwinsize())
                 return 0
             return 1
         except pxssh.ExceptionPxssh as e:
@@ -78,13 +80,22 @@ class SSHAgent():
             if not output:
                 print("Error send cmd to %s " % (device))
                 #self.write_log( OUTPUT_PATH[-2]+list_devices[index].strip()+".txt", output)
+            else:
+                self.__write_log(device.strip(),output)
 
-    def __write_log( self, path, data ):
-        pass
-
+    def __write_log( self, name, output ):
+        f = open("output/"+name+".txt","w")
+        try:
+            f.write(output)
+        except Exception as e:
+            print(e)
+        finally:
+            f.close()
+        
     def close( self ):
         self.ssh.close()
-        
+
+#get device list
 class DeviceLoader():
 
     def __init__( self, json_path, dev_path, cmd_path ):
@@ -123,14 +134,13 @@ if __name__ == "__main__":
     DEVICE_PATH = cf.get("path","DEVICE_PATH")
     CMD_PATH = cf.get("path","CMD_PATH")
     OUTPUT_PATH = cf.get("path","OUTPUT_PATH")
+    
 
     ssh_info = eval(cf.get("sshinfo",choose[num_choose]))
     deli_telnet = eval(cf.get("delimiter","TELNET"))
     deli_device = eval(cf.get("delimiter","DEVICE"))
     action_telnet = eval(cf.get("action","TELNET_"+choose[num_choose]))
     action_device = eval(cf.get("action","DEVICE"))
-
-
 
     ssh = SSHAgent( ssh_info )
     device_loader = DeviceLoader( DEVICE_CMD_PATH,DEVICE_PATH,CMD_PATH )

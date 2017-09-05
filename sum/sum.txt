@@ -1,0 +1,1605 @@
+ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=253 time=1 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/1/1 ms
+
+<GDGZ-YJ-NE40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/10/11 ms
+
+<GDZJ-XSK-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/3/10 ms
+
+<GDQY-YQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/6/7 ms
+
+<GDJM-JH-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/9/10 ms
+
+<GDHY-GXQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+Error: The specified VPN instance does not exist.
+<GDSZ-GK-N80E-E1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=40 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=21 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/14/40 ms
+
+<GDCZ-CF-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=20 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=12 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 12/14/20 ms
+
+<GDMZ-YM-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/9/11 ms
+
+<GDST-SZ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=55 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/13/55 ms
+
+<GDJY-JGY-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=7 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/6/7 ms
+
+<GDJM-BJ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDQY-CYL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/4/5 ms
+
+<GDHZ-JB-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=19 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=19 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=20 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=35 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=28 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 18/21/35 ms
+
+<GDYJ-YZDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=30 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/4/30 ms
+
+<GDFS-SDYF-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/2/2 ms
+
+<GDFS-WHDS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/8/13 ms
+
+<GDHZ-HNA-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=12 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/12 ms
+
+<GDZH-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/8 ms
+
+<GDSW-JGXX-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/2/2 ms
+
+<GDDG-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/6/6 ms
+
+<GDSZ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 4/5/6 ms
+
+<GDZH-SC-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=7 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/7/9 ms
+
+<GDSG-TFDS-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=16 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 15/15/16 ms
+
+<GDHY-JLC-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/9 ms
+
+<GDYJ-YZDL-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 11/11/11 ms
+
+<GDST-JS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/13 ms
+
+<GDZJ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=253 time=1 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/1/1 ms
+
+<GDGZ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 13/13/14 ms
+
+<GDYF-XDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/9/18 ms
+
+<GDSG-XL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/5/10 ms
+
+<GDZS-XLGQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+Error: The specified VPN instance does not exist.
+<GDSZ-XSK-N80E-E1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=35 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/6/35 ms
+
+<GDSZ-GK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDMM-YZDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=253 time=1 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/1/1 ms
+
+<GDGZ-YJ-NE40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/10/11 ms
+
+<GDZJ-XSK-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/3/10 ms
+
+<GDQY-YQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/6/7 ms
+
+<GDJM-JH-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/9/10 ms
+
+<GDHY-GXQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+Error: The specified VPN instance does not exist.
+<GDSZ-GK-N80E-E1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=40 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=21 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 9/14/40 ms
+
+<GDCZ-CF-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=20 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=12 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 12/14/20 ms
+
+<GDMZ-YM-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/9/11 ms
+
+<GDST-SZ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=55 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/13/55 ms
+
+<GDJY-JGY-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=7 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/6/7 ms
+
+<GDJM-BJ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDQY-CYL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/4/5 ms
+
+<GDHZ-JB-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=19 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=19 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=20 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=35 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=28 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 18/21/35 ms
+
+<GDYJ-YZDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=30 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/4/30 ms
+
+<GDFS-SDYF-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/2/2 ms
+
+<GDFS-WHDS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/8/13 ms
+
+<GDHZ-HNA-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=12 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/12 ms
+
+<GDZH-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/8 ms
+
+<GDSW-JGXX-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=2 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/2/2 ms
+
+<GDDG-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/6/6 ms
+
+<GDSZ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 4/5/6 ms
+
+<GDZH-SC-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=7 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 7/7/9 ms
+
+<GDSG-TFDS-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=16 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 15/15/16 ms
+
+<GDHY-JLC-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=7 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/9 ms
+
+<GDYJ-YZDL-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 11/11/11 ms
+
+<GDST-JS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=8 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/13 ms
+
+<GDZJ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=253 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=253 time=1 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/1/1 ms
+
+<GDGZ-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 13/13/14 ms
+
+<GDYF-XDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 6/9/18 ms
+
+<GDSG-XL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=2 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=5 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 2/5/10 ms
+
+<GDZS-XLGQ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+Error: The specified VPN instance does not exist.
+<GDSZ-XSK-N80E-E1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=35 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/6/35 ms
+
+<GDSZ-GK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDMM-YZDL-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=55 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/15/55 ms
+
+<GDJY-YZJ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/2/4 ms
+
+<GDZQ-YF-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/8/13 ms
+
+<GDMZ-GXDS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/16 ms
+
+<GDZS-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/11 ms
+
+<GDMM-YZDL-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 13/13/18 ms
+
+<GDSW-JADS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/3/5 ms
+
+<GDDG-KJY-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=4 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 4/4/5 ms
+
+<GDYF-DXP-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDCZ-CF-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=27 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/14/27 ms
+
+<GDZQ-YF-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=55 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/15/55 ms
+
+<GDJY-YZJ-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/2/4 ms
+
+<GDZQ-YF-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=1 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 1/8/13 ms
+
+<GDMZ-GXDS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=16 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=6 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=6 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 5/6/16 ms
+
+<GDZS-XSK-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=9 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=8 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=9 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 8/8/11 ms
+
+<GDMM-YZDL-N40E-A2>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=18 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=13 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=13 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 13/13/18 ms
+
+<GDSW-JADS-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=3 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=3 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 3/3/5 ms
+
+<GDDG-KJY-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=4 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=5 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=4 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 4/4/5 ms
+
+<GDYF-DXP-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=11 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=11 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/10/11 ms
+
+<GDCZ-CF-N40E-A1>ping -vpn-instance  4G_RAN -c 10 -m 50  -t 200 10.100.32.6
+  PING 10.100.32.6: 56  data bytes, press CTRL_C to break
+    Reply from 10.100.32.6: bytes=56 Sequence=1 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=2 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=3 ttl=252 time=14 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=4 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=5 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=6 ttl=252 time=10 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=7 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=8 ttl=252 time=27 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=9 ttl=252 time=15 ms
+    Reply from 10.100.32.6: bytes=56 Sequence=10 ttl=252 time=10 ms
+
+  --- 10.100.32.6 ping statistics ---
+    10 packet(s) transmitted
+    10 packet(s) received
+    0.00% packet loss
+    round-trip min/avg/max = 10/14/27 ms
+
+<GDZQ-YF-N40E-A1>
